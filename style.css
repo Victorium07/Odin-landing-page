@@ -21,7 +21,12 @@ header, footer, .one, .three {
 li {
     list-style-type: none;
     align-self: center;
-    margin-right: 20px;
+    margin-right: 10px;
+}
+
+.metal-img {
+    height: auto;
+    width: 30px;
 }
 
 a {
